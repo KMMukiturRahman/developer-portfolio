@@ -57,10 +57,20 @@ color: white;
     
  }
  .second-level{
-    position: absolute;
-width: 569px;
-height: 723.3px;
+    position: relative;
 left: 206px;
-top: 939px;
+top: 600px;
  }
-  }
+ .second-level-head{
+    position: absolute;
+    left: 862px;
+top: 1000px;
+ }
+ .second-level-description{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1050px;
+
+ }
