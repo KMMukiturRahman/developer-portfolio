@@ -117,6 +117,11 @@ font-weight: 700;
  .plan-target{
 
  }
+ .img-gradient {
+   
+    background-image: url("/images/watch.png"),linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%) ; /* fallback */
+    background-repeat: no-repeat ;
+  }
  
 
  
