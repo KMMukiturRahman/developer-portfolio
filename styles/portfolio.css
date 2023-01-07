@@ -95,11 +95,19 @@ li {
 
  }
  .section-title{
-text-align: center;
+text-align:center;
  }
  .plan-container{
     display: flex;
     justify-content: space-around;
+    width: 1141px;
+height: 299.96px;
+top: 1792.3px;
+padding-left:230px ;
+ }
+ .plans-info{
+    text-align: center;
+
  }
  .plan-title{
     color: #151414;
@@ -109,3 +117,6 @@ font-weight: 700;
  .plan-target{
 
  }
+ 
+
+ 
