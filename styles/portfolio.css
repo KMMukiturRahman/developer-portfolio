@@ -74,3 +74,38 @@ top: 1000px;
     top: 1050px;
 
  }
+. list-2nd-level{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+ }
+ ul{
+    position:inherit;
+    display:block;
+    align-items: center;
+    
+ }
+li {
+    position:inherit;
+    list-style:none;
+    margin-left: 862px;
+    top: 1416px;
+
+ }
+ .section-title{
+text-align: center;
+ }
+ .plan-container{
+    display: flex;
+    justify-content: space-around;
+ }
+ .plan-title{
+    color: #151414;
+    font-style: normal;
+font-weight: 700;
+ }
+ .plan-target{
+
+ }
